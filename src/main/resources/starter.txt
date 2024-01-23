@@ -1,0 +1,5 @@
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties (vo eden terminal)
+.\bin\windows\kafka-server-start.bat .\config\server.properties (vo drug terminal)
+
+prvo start na consumer
+posle na producers
